@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/edu/metu/cytoscape/plugin/eclerize/CyActivator.java=UTF-8
+encoding//src/main/java/edu/metu/cytoscape/plugin/eclerize/ECTree.java=UTF-8
+encoding//src/main/java/edu/metu/cytoscape/plugin/eclerize/EClerizeAlgorithm.java=UTF-8
+encoding//src/main/java/edu/metu/cytoscape/plugin/eclerize/EClerizeAlgorithmTask.java=UTF-8
